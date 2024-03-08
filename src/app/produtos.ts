@@ -38,7 +38,7 @@ export const produtos: IProduto[] = [
   },
   {
     id: 4,
-    descricao: 'Fone para quem joga FPS',
+    descricao: 'Fone para quem joga',
     preco: 599.99,
     descricaoPreco: 'À vista no PIX',
     imagem: '/assets/fone-de-ouvido-2.jpg',
@@ -70,7 +70,7 @@ export const produtos: IProduto[] = [
   },
   {
     id: 8,
-    descricao: 'Combo de placa de vídeos',
+    descricao: 'Placa de vídeos',
     preco: 18449.99,
     descricaoPreco: 'À vista no PIX',
     imagem: '/assets/placa-video.jpg',
